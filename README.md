@@ -1,10 +1,12 @@
-# edu-dsa
+# Data Structures & Algorithms Learning Path
 
-All my code training solutions for various practice platforms.
+I use this repository to document various data structures 
+and algorithms that I find in the wild.
 
 ### C++ Solutions
 
-**leet-code/binary_search.cpp**
+**leet-code/binary_search.cpp**:
+
 [Binary Search](https://leetcode.com/problems/binary-search/?envType=stuy-plan&i=algorithm-i)
 
 ___
