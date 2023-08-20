@@ -5,7 +5,7 @@ and algorithms that I find in the wild.
 
 ### C++ Solutions
 
-**leet-code/binary_search.cpp**:
+**binarySearch.cpp**:
 
 [Binary Search](https://leetcode.com/problems/binary-search/?envType=stuy-plan&i=algorithm-i)
 

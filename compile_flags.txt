@@ -1,5 +1,4 @@
 -std=c++2b
 -Wall
--Werror
 -Wextra
--Wpedantic
+-03
